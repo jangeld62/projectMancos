@@ -12,5 +12,5 @@ Feature
 
     Examples:
       | name  | value | status |  |
-      | name1 | 5     | succes |  |
-      | name2 | 7     | fail   |  |
+      | name1 | 5     | Succes |  |
+      | name2 | 7     | Fail   |  |
